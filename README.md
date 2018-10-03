@@ -1,5 +1,5 @@
 # java-cef-binary
-One more compiled version of java-cef
+One more binary compiled version of java-cef.
 
 Original sources located here https://bitbucket.org/chromiumembedded/java-cef
 
